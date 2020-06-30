@@ -1,4 +1,3 @@
-# Noah Foley
 # Homework 2 for Assembly Language
 #
 #	$a0 <-- msg OR err
